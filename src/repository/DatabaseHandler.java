@@ -9,7 +9,7 @@ import java.util.List;
 public class DatabaseHandler {
     private static final String URL = "jdbc:mysql://localhost:3306/expensetracker";
     private static final String USER = "root";
-    private static final String PASSWORD = "Suraj@123"; // <--- Apna password likhein
+    private static final String PASSWORD = "Suraj@123";
 
     public static Connection getConnection() throws SQLException {
         return DriverManager.getConnection(URL, USER, PASSWORD);
