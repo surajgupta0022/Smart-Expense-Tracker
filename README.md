@@ -36,4 +36,4 @@ A desktop-based GUI application built using **Java** and **Swing** following the
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/surajgupta0022/Smart-Expense-Tracker.git](https://github.com/surajgupta0022/Smart-Expense-Tracker.git)
+   git clone [https://github.com/surajgupta0022/Smart-Expense-Tracker.git]
